@@ -1,0 +1,11 @@
+<li><a href="#">Ambon</a></li>
+                                        <li><a href="#">Maluku Tengah</a></li>
+                                        <li><a href="#">Seram Bagian Barat</a></li>
+                                        <li><a href="#">Seram Bagian Timur</a></li>
+                                        <li><a href="#">Tual</a></li>
+                                        <li><a href="#">Maluku Tenggara</a></li>
+                                        <li><a href="#">Buru</a></li>
+                                        <li><a href="#">Buru Selatan</a></li>
+                                        <li><a href="#">Aru</a></li>
+                                        <li><a href="#">Kepulauan Tanimbar</a></li>
+                                        <li><a href="#">Maluku Barat Daya</a></li>
